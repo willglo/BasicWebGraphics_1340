@@ -1,2 +1,4 @@
 # WEBT-1340-N01
- Basic Web Graphics • William Glosup project page
+ Basic Web Graphics • William Glosup Project Page
+
+
